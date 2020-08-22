@@ -1,9 +1,9 @@
 # Good Wines, Bad Wines: Classifying Wines with Machine Learning
 
 The discovery of a wine is of greater moment than the discovery of a constellation.
-The universe is already of stars. -- Anonymous
+*The universe is already full of stars.* -- Anonymous
 
-Every wine aficionado has experienced the disappointment of purchasing a $15 bottle of wine, only to uncork and aerate it discover it is undrinkable. Wine experts, known as Sommeliers, can accurately rate a wine's quality from its taste and aroma. But unless you are lucky enough to befriend one, you can't avail yourself of their opinion on the wine before you buy it. Though not a Sommelier, I know what I like in a wine. If I were allowed to taste a wine before buying it, I could choose a good bottle every time.
+Every wine aficionado has experienced the disappointment of purchasing a $15 bottle of wine, only to uncork and aerate it discover it is undrinkable. Wine experts, known as *Sommeliers*, can accurately rate a wine's quality from its taste and aroma. But unless you are lucky enough to befriend one, you can't avail yourself of their opinion on a wine before you buy it. Though not a Sommelier, I know what I like in a wine. If I were allowed to taste a wine before buying it, I could choose a good bottle every time.
 
 Suppose that instead of experiencing the wine first-hand, you are only given measurements of a set of physico-chemical properties of each wine. Would you be able to tell good wines apart from bad?
 
